@@ -21,4 +21,5 @@ def all_phrases(name)
     return link
   if name = "toadstool"
     return toadstool
+  end
 end
