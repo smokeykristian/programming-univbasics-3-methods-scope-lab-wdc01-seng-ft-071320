@@ -15,11 +15,5 @@ def link
 end 
 
 def all_phrases(name)
-  if name = "mario"
-    return mario
-  if name = 'link'
-    return link
-  if name = "toadstool"
-    return toadstool
-  end
+
 end
