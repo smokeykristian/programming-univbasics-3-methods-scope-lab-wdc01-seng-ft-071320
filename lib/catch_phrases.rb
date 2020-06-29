@@ -14,6 +14,6 @@ def link
   puts phrase
 end 
 
-def all_phrases(name)
-
+def all_phrases
+  puts "It's-a me, Mario!\n Thank You Mario! But Our Princess Is In Another Castle!\n It's Dangerous To Go Alone! Take This."
 end
