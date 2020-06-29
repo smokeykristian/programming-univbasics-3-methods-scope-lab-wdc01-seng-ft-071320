@@ -14,6 +14,11 @@ def link
   puts phrase
 end 
 
-def all_phrases(mario, toadstool, link)
-  puts "#{mario}\n #{toadstool}\n #{link} "
+def all_phrases(name)
+  if name = "mario"
+    return mario
+  if name = 'link'
+    return link
+  if name = "toadstool"
+    return toadstool
 end
